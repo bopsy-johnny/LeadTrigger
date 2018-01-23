@@ -8,5 +8,5 @@
         <members>*</members>
         <name>ApexTrigger</name>
     </types>
-    <version>40.0</version>
+    <version>12.0</version>
 </Package>
